@@ -2,7 +2,6 @@
 
 [![Herrington's GitHub stats](https://github-readme-stats.vercel.app/api?username=cunzaizhuyi)](https://github.com/anuraghazra/github-readme-stats)
 
-[![2022年贡献过的项目](https://api.github.com/search/issues?page=1&q=author%3Acunzaizhuyi+type%3Apr+is:merged+merged:%3E=2022-01-01)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
 **cunzaizhuyi/cunzaizhuyi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
